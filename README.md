@@ -21,7 +21,7 @@
 
 ## 단계 전체 목록
 
-<details open>
+<details>
   <summary><b> 1단계 : 입출력과 사칙연산</b></summary>
   <br />
 
