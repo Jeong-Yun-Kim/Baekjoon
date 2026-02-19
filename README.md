@@ -1,10 +1,8 @@
 # Baekjoon
 
-<p align="center">
   <a href="https://solved.ac/love2851030">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=love2851030" />
   </a>
-</p>  
 
 <br/>
 <br/>
