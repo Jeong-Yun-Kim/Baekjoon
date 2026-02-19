@@ -17,10 +17,12 @@
 | 3단계 | 반복문 | [바로가기](./단계별/3단계-반복문) |
 | 4단계 | 1차원 배열 | [바로가기](./단계별/4단계-1차원_배열) |
 
+<br />
+
 ## 단계 전체 목록
 
 <details open>
-  <summary><b>📘 1단계 : 입출력과 사칙연산</b></summary>
+  <summary><b> 1단계 : 입출력과 사칙연산</b></summary>
   <br />
 
 | No | Problem | Tier | Code |
@@ -42,7 +44,7 @@
 </details>
 
 <details>
-  <summary><b>📗 2단계 : 조건문</b></summary>
+  <summary><b> 2단계 : 조건문</b></summary>
   <br />
 
 | No | Problem | Tier | Code |
@@ -58,7 +60,7 @@
 </details>
 
 <details>
-  <summary><b>📙 3단계 : 반복문</b></summary>
+  <summary><b> 3단계 : 반복문</b></summary>
   <br />
 
 | No | Problem | Tier | Code |
@@ -79,7 +81,7 @@
 </details>
 
 <details>
-  <summary><b>📕 4단계 : 1차원 배열</b></summary>
+  <summary><b> 4단계 : 1차원 배열</b></summary>
   <br />
 
 | No | Problem | Tier | Code |
