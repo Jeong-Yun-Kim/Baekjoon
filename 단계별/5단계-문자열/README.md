@@ -10,7 +10,8 @@
 | 06 | 알파벳 찾기 | <img src="https://static.solved.ac/tier_small/4.svg" height="18"/> | [10809](./06_10809.cpp) |
 | 07 | 문자열 반복 | <img src="https://static.solved.ac/tier_small/4.svg" height="18"/> | [2675](./07_2675.cpp) |
 | 08 | 단어의 개수 | <img src="https://static.solved.ac/tier_small/4.svg" height="18"/> | [1152](./08_1152.cpp) |
-| 09 | 상수 | <img src="https://static.solved.ac/tier_small4.svg" height="18"/> | [2908](./09_2908.cpp) |
+| 09 | 상수 | <img src="https://static.solved.ac/tier_small/4.svg" height="18"/> | [2908](./09_2908.cpp) |
 | 10 | 다이얼 | <img src="https://static.solved.ac/tier_small/4.svg" height="18"/> | [5622](./10_5622.cpp) |
 | 11 | 그대로 출력하기 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [11718](./11_11718.cpp) |
+
 
