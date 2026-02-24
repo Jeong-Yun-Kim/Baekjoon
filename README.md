@@ -98,3 +98,23 @@
 | 10 | 평균 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [1546](./단계별/4단계-1차원_배열/10_1546.cpp) |
 
 </details>
+
+<details>
+  <summary><b> 5단계 : 문자열 </b></summary>
+  <br />
+
+| No | Problem | Tier | Code |
+|:--:|---------|:----:|:----:|
+| 01 | 문자와 문자열 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [27866](./단계별/5단계-문자열/01_27866.cpp) |
+| 02 | 단어 길이 재기 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [2743](./단계별/5단계-문자열/02_2743.cpp) |
+| 03 | 문자열 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [9086](./단계별/5단계-문자열/03_9086.cpp) |
+| 04 | 아스키 코드 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [11654](./단계별/5단계-문자열/04_11654.cpp) |
+| 05 | 숫자의 합 | <img src="https://static.solved.ac/tier_small/4.svg" height="18"/> | [11720](./단계별/5단계-문자열/05_11720.cpp) |
+| 06 | 알파벳 찾기 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [10809](./단계별/5단계-문자열/06_10809.cpp) |
+| 07 | 문자열 반복 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [2675](./단계별/5단계-문자열/07_2675.cpp) |
+| 08 | 단어의 개수 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [1152](./단계별/5단계-문자열/08_1152.cpp) |
+| 09 | 상수 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [2908](./단계별/5단계-문자열/09_2908.cpp) |
+| 10 | 다이얼 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [5622](./단계별/5단계-문자열/10_5622.cpp) |
+| 11 | 그대로 출력하기 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [11718](./단계별/5단계-문자열/11_11718.cpp) |
+
+</details>
