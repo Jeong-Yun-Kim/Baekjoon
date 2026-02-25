@@ -18,6 +18,7 @@
 | 4단계 | 1차원 배열 | [바로가기](./단계별/4단계-1차원_배열) |
 | 5단계 | 문자열 | [바로가기](./단계별/5단계-문자열) |
 | 6단계 | 심화 1 | [바로가기](./단계별/6단계-심화_1) |
+| 7단계 | 2차원 배열 | [바로가기](./단계별/7단계-2차원_배열) |
 
 <br />
 
@@ -135,5 +136,18 @@
 | 06 | 크로아티아 알파벳 | <img src="https://static.solved.ac/tier_small/6.svg" height="18"/> | [2941](./단계별/6단계-심화_1/6_2941.cpp) |
 | 07 | 그룹 단어 체커 | <img src="https://static.solved.ac/tier_small/6.svg" height="18"/> | [1316](./단계별/6단계-심화_1/7_1316.cpp) |
 | 08 | 너의 평점은 | <img src="https://static.solved.ac/tier_small/6.svg" height="18"/> | [25206](./단계별/6단계-심화_1/8_25206.cpp) |
+
+</details>
+
+<details>
+  <summary><b> 7단계 : 2차원 배열</b></summary>
+  <br />
+
+| No | Problem | Tier | Code |
+|:--:|---------|:----:|:----:|
+| 01 | 행렬 덧셈 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [2738](./단계별/7단계-2차원_배열/1_2738.cpp) |
+| 02 | 최댓값 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [2566](./단계별/7단계-2차원_배열/2_2566.cpp) |
+| 03 | 세로읽기 | <img src="https://static.solved.ac/tier_small/1.svg" height="18"/> | [10798](./단계별/7단계-2차원_배열/3_10798.cpp) |
+| 04 | 색종이 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [2563](./단계별/7단계-2차원_배열/4_2563.cpp) |
 
 </details>
