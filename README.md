@@ -16,6 +16,8 @@
 | 2단계 | 조건문 | [바로가기](./단계별/2단계-조건문) |
 | 3단계 | 반복문 | [바로가기](./단계별/3단계-반복문) |
 | 4단계 | 1차원 배열 | [바로가기](./단계별/4단계-1차원_배열) |
+| 5단계 | 문자열 | [바로가기](./단계별/5단계-문자열) |
+| 6단계 | 심화 1 | [바로가기](./단계별/6단계-심화_1) |
 
 <br />
 
@@ -116,5 +118,22 @@
 | 09 | 상수 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [2908](./단계별/5단계-문자열/09_2908.cpp) |
 | 10 | 다이얼 | <img src="https://static.solved.ac/tier_small/2.svg" height="18"/> | [5622](./단계별/5단계-문자열/10_5622.cpp) |
 | 11 | 그대로 출력하기 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [11718](./단계별/5단계-문자열/11_11718.cpp) |
+
+</details>
+
+<details>
+  <summary><b> 6단계 : 심화 1</b></summary>
+  <br />
+
+| No | Problem | Tier | Code |
+|:--:|---------|:----:|:----:|
+| 01 | 새싹 | <img src="https://static.solved.ac/tier_small/1.svg" height="18"/> | [25083](./단계별/6단계-심화_1/1_25083.cpp) |
+| 02 | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img src="https://static.solved.ac/tier_small/1.svg" height="18"/> | [3003](./단계별/6단계-심화_1/2_3003.cpp) |
+| 03 | 별 찍기 - 7 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [2444](./단계별/6단계-심화_1/3_2444.cpp) |
+| 04 | 팰린드롬인지 확인하기 | <img src="https://static.solved.ac/tier_small/3.svg" height="18"/> | [10988](./단계별/6단계-심화_1/4_10988.cpp) |
+| 05 | 단어 공부 | <img src="https://static.solved.ac/tier_small/5.svg" height="18"/> | [1157](./단계별/6단계-심화_1/5_1157.cpp) |
+| 06 | 크로아티아 알파벳 | <img src="https://static.solved.ac/tier_small/6.svg" height="18"/> | [2941](./단계별/6단계-심화_1/6_2941.cpp) |
+| 07 | 그룹 단어 체커 | <img src="https://static.solved.ac/tier_small/6.svg" height="18"/> | [1316](./단계별/6단계-심화_1/7_1316.cpp) |
+| 08 | 너의 평점은 | <img src="https://static.solved.ac/tier_small/6.svg" height="18"/> | [25206](./단계별/6단계-심화_1/8_25206.cpp) |
 
 </details>
